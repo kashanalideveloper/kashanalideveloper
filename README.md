@@ -51,6 +51,28 @@ business goals.
 - SEO improvements
 
 ---
+## Client Work
+
+### Oracles Force — Business Website
+
+**Live Website:** https://oraclesforce.com/
+
+A professional business website developed for Oracles Force.
+
+**My Contribution:**
+- Frontend development and UI implementation
+- Responsive design for mobile, tablet, and desktop
+- Website sections and reusable UI components
+- Performance and user experience improvements
+- SEO-friendly page structure
+
+**Technologies:**
+- Next.js
+- React
+- JavaScript
+- Tailwind CSS
+
+**Project Type:** Business / IT Services Website
 
 # 🛠️ My Tech Stack
 
